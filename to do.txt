@@ -1,11 +1,14 @@
 //add a 1 uF capacitor to the power input on LCD
 //Add config pins
 //replace pfet with nfet
-add more leds
-confirm light
-test spi on LCD
+//add more leds
+//confirm light
 add current sensors on LCD and LED strip
-seperate IM pins
-check LCD pins. If anything useful add to generic GPIO
+//seperate IM pins
 //select a connector
 make the footprint for the LCD 
+//connect two more lcd pins CD can CCD
+
+-------
+Make LCD componenet symbol more intuiticve
+test spi on LCD
