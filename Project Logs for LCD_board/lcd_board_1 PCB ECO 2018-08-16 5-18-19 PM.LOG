@@ -1,0 +1,49 @@
+Added Component: Designator=LCD(LCD_touchscreen_tft)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Adafruit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.adafruit.com/product/1743"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://cdn-shop.adafruit.com/datasheets/ILI9341.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Raw LCD Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://cdn-shop.adafruit.com/datasheets/MI0283QT-11+V1.1.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.digikey.ca/products/en/optoelectronics/display-modules-lcd-oled-graphic/107?k=&pkeyword=&pv652=165&FV=ffe0006b%2Cfffc05f8&quantity=0&ColumnSort=0&page=1&pageSize=25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Adafruit Guide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://cdn-learn.adafruit.com/downloads/pdf/adafruit-2-dot-8-color-tft-touchscreen-breakout-v2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1528-2614-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "S7053-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CLK Pin=LCD-4
+Added Pin To Net: NetName=MISO Pin=LCD-5
+Added Pin To Net: NetName=MOSI Pin=LCD-6
+Added Pin To Net: NetName=CS Pin=LCD-7
+Added Pin To Net: NetName=D/C Pin=LCD-8
+Added Pin To Net: NetName=IM3 Pin=LCD-15
+Added Pin To Net: NetName=IM2 Pin=LCD-16
+Added Pin To Net: NetName=IM1 Pin=LCD-17
+Added Pin To Net: NetName=IM0 Pin=LCD-18
+Added Pin To Net: NetName=CCS Pin=LCD-19
+Added Pin To Net: NetName=CD Pin=LCD-20
+Added Pin To Net: NetName=GND Pin=LCD-21
+Added Pin To Net: NetName=5V Pin=LCD-22
+Added Pin To Net: NetName=CS Pin=LCD-23
+Added Pin To Net: NetName=C/D Pin=LCD-24
+Added Pin To Net: NetName=WR Pin=LCD-25
+Added Pin To Net: NetName=RD Pin=LCD-26
+Added Pin To Net: NetName=Backlight Pin=LCD-28
+Added Pin To Net: NetName=X+ Pin=LCD-29
+Added Pin To Net: NetName=Y+ Pin=LCD-30
+Added Pin To Net: NetName=X- Pin=LCD-31
+Added Pin To Net: NetName=Y- Pin=LCD-32
+Added Pin To Net: NetName=D0 Pin=LCD-33
+Added Pin To Net: NetName=D1 Pin=LCD-34
+Added Pin To Net: NetName=D2 Pin=LCD-35
+Added Pin To Net: NetName=D3 Pin=LCD-36
+Added Pin To Net: NetName=D4 Pin=LCD-37
+Added Pin To Net: NetName=D5 Pin=LCD-38
+Added Pin To Net: NetName=D6 Pin=LCD-39
+Added Pin To Net: NetName=D7 Pin=LCD-40
+Added Member To Class: ClassName=LCD_board Member=Component LCD 3.5 Inch TFT Touchscreen LCD
+Added Room: Name=LCD_board
+Added Room: Name=USB

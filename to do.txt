@@ -3,11 +3,14 @@
 //replace pfet with nfet
 //add more leds
 //confirm light
-add current sensors on LCD and LED strip
+//add current sensors on LCD and LED strip
 //seperate IM pins
 //select a connector
-make the footprint for the LCD 
+//make the footprint for the LCD 
 //connect two more lcd pins CD can CCD
+//vbat in connector
+//led after buck
+fix boot connector
 
 -------
 Make LCD componenet symbol more intuiticve
