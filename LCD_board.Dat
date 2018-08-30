@@ -1,0 +1,42 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~LCD_board.PrjPCB|ReportField=ProjectFullPath~C:\Users\rober\Documents\auvic\LCD_board\LCD_board\LCD_board.PrjPCB|ReportField=Title~Bill of Materials For Project [LCD_board.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~4:57:57 PM|ReportField=ReportDate~2018-08-29|ReportField=ReportDateTime~2018-08-29 4:57:57 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~101|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~c5a63a969723defe6ea871d8a48d63a8268af847|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2018-08-29|ReportField=CurrentTime~4:57:46 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\rober\Documents\auvic\LCD_board\LCD_board\CAN.SchDoc|ReportField=DocumentName~CAN.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2018-08-16|ReportField=Organization~|ReportField=ProjectName~LCD_board.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~LCD_board.PrjPCB|ReportField=DataSourceFullPath~C:\Users\rober\Documents\auvic\LCD_board\LCD_board\LCD_board.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|0.1μF|Capacitor, Ceramic, 100V, +/- 10%, 0603 SMD, X7R, Capacitor, Ceramic, 16V, +/- 10%, 0603 SMD, X7R|C1, C2, C3, C4, C7, C8, C9, C11, C12, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C33|CAPC1608N(0603")|0.1uF 100V 0603 SMD, Ceramic, 0.1uF 16V 0603 SMD, Ceramic|20
+2|10nF|Capacitor, Ceramic, 50V, +/- 10%, 0603 SMD|C5|CAPC1608N(0603")|10 nF, 50V 0603 SMD, Ceramic|1
+3|22µF|Capacitor, Ceramic, 35V, +/- 20%, 0805 SMD, X5R|C6, C14|CAPC2012N(0805")|22uF 35V 0805 SMD, Ceramic|2
+4|1μF|Capacitor, Ceramic, 25V, +/- 10%, 0603 SMD, X5R|C10, C13, C28, C29, C30, C34|CAPC1608N(0603")|1uF 25V 0603 SMD, Ceramic|6
+5|82pF|82pF 50V Ceramic Capacitor C0G, NP0 0603|C15|CAPC1608N(0603")|82pF 50V 0603 SMD, Ceramic|1
+6|4.7µF|Capacitor, Ceramic, 35V, +/- 10%, 0805 SMD, X5R|C16, C17|CAPC2012N(0805")|4.7uF 35V 0805 SMD, Ceramic|2
+7|2.2µF|Capacitor, Ceramic, 50V, 10%, 0603 SMD, X5R|C31, C32|CAPC1608N(0603")|2.2uF, 50V, 0603 SMD, X5R, Ceramic|2
+8|Header Male 1x6|1x6, Pads Pitch: 0.1" (2.54mm), Through hole|CN1|Header, Male, 1X6|Header, Male, 1x6|1
+9|Header, Male, 2x4, Pitch: 0.1" (2.54mm), THT|Header, Male, 2x4, Pitch: 0.1" (2.54mm), THT|CN2|Header, Male, 2x4, Pitch: 0.1" (2.54mm),THT|Header, Male, 2x4, Pitch: 0.1" (2.54mm), THT|1
+10|640456-2|CONN HEADER VERT 2POS .100 TIN|CN3|640456-2|2x1 Male Header, Friction Lock|1
+11|Power|Connector Header Through Hole, Right Angle 2 position 0.312" (7.92mm)|CN5|2X1 Power Connector 90 degrees|2x1, Male header, Right Angle, Latch holder|1
+12|B3PS-VH(LF)(SN)|CONN HEADER VH SIDE 3POS 3.96MM|CN6|3X1 Male Header, Locking, 10A|3x1 Male Header, Locking, 10A|1
+13|DSS14UTR|Diode, Schottky, 40V, 1A|D1|SOD-123F|DSS14UTR|1
+14|Red|LED, 0805 (2012), Red, Clear|D2, D3, D4|LED0805|LED, 0805 (2012), Red, Clear|3
+15|Green|LED, 0805 (2012), Green, Clear|D5, D8, D10|LED0805|LED, 0805 (2012), Green, Clear|3
+16|Blue|LED, 0805 (2012), Blue, Clear|D6, D9|LED0805|LED, 0805 (2012), Blue, Clear|2
+17|Orange|LED, 0805 (2012), Orange, Clear|D7|LED0805|LED, 0805 (2012), Orange, Clear|1
+18|2x1 Term Block||J1|2X1 Terminal Blocks|2x1 Terminal Block|1
+19|15µH|15µH Shielded Wirewound Inductor 5A 27 mOhm Max Nonstandard|L1|WE-PD-XL|15µH 5A Inductor|1
+20|3.5 Inch TFT Touchscreen LCD|3.2" TFT LCD with Touchscreen Breakout Board w/MicroSD Socket|LCD|LCD_touchscreen_tft|Adafruit ILI9341|1
+21|3mm||MH1, MH2, MH3, MH4|Mount-Hole_3mm|Mount_Hole_3mm|4
+22|Mini B USB Port|Mini B USB Port - Female|P1, P2|Mini B USB Footprint|Mini B USB Port|2
+23|DMP3098L-7|P-Channel Enhancement Mode MOSFET, -30 V VDS, -55 to 155 degC, 3-Pin SOT23, RoHS, Tape and Reel|Q1, Q3|DIOD-SOT23-3_V|CMP-0697-00001-2|2
+24|MOSFET N-Channel, 30V, 6.2A,|N-Channel 30V 6.2A (Ta) 900mW (Ta) Surface Mount SOT-23|Q2|SOT-23|MOSFET N-Channel, 30V, 6.2A,|1
+25|100k|100kR, 1%, 1/10W, 0603 SMD|R1, R9, R18, R28|RESC1608N(0603")|100kR, 1%, 1/10W, 0603 SMD|4
+26|10k|10kR, 1%, 1/10W, 0603 SMD|R2, R3, R4, R5, R6, R12, R13, R16, R19, R20, R27, R29|RESC1608N(0603")|10kR, 1%, 1/10W, 0603 SMD|12
+27|715R|715R, 1%, 1/10W, 0603, SMD|R7, R8, R21, R22, R31|RESC1608N(0603")|715R, 1%, 1/10W, 0603, SMD|5
+28|100|100R, 1%, 1/10W, 0603 SMD|R10, R11, R25|RESC1608N(0603")|100R, 1%, 1/10W, 0603 SMD|3
+29|22|22 Ohm, 1%, 1/10W , 0603, SMD|R14, R15, R23, R24|RESC1608N(0603")|22 Ohm, 1%, 1/10W , 0603, SMD|4
+30|31.6kR|31.6kR, 1%, 1/10W, 0603, SMD|R17|RESC1608N(0603")|31.6kR, 1%, 1/10W, 0603, SMD|1
+31|150R|RES SMD 150 OHM 1% 1/10W 0603|R26|RESC1608N(0603")|150R, 1%, 1/10W, 0603, SMD|1
+32|0.02|0R02, 1%, 2W, 2512 SMD|R30|RESC6332N(2512")|0R02, 1%, 2W, 2512 SMD|1
+33|Solder Bridge||SB1|Solder Bridge|Solder Bridge|1
+34|SPST||SW1|4-SPST-NO|4 pin Tacitle Switch|1
+35|3.3V Lin Reg 30Vin||U1|T0-252|3.3V TO-252 Linear Regulator|1
+36|36V 5A Buck DC-DC RT8279GSP||U2|8-SOP-EP|36V 5A Buck DC-DC RT8279GSP|1
+37|FT230X||U3|SSOP16|FTDI - USB to UART|1
+38|Level Shifter|Voltage Level Translator Bidirectional 1 Circuit 1 Channel 420Mbps SC-88 (SOT-363)|U4|SOT-363|Bidirectional Level Shifter, 1.65V - 5.5V VCCA, 1.65V - 5.5V VCCB|1
+39|ZXCT1110W5-7, Current Sensor, High-Side, Analog|Diodes Incorporated, ZXCT1110W5-7|U5|SOT23-5|ZXCT1110W5-7, Current Sensor, High-Side, Analog|1
+40|SN65HVD232DR|IC CAN TRANSCEIVER 3.3V 8-SOIC|U6|8-SOIC|CAN Half Duplex SN65HVD232DR|1
+41|STM32F413VGT6|ARM Cortex-M4 32-bit MCU, 180 MHz, 320 KB Internal Rap, 81 I/O, 100-pin LQFP, -40 to 85 degC, Tray|Y1|STM-LQFP100_M|STM32F413VGT6|1
